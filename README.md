@@ -161,16 +161,6 @@ Table: `messages`
 
 ---
 
-## 🔥 Future Improvements
-
-* Add user authentication (JWT)
-* Store full conversation history
-* Real-time streaming responses
-* React frontend integration
-* Deployment (Render / AWS)
-
----
-
 ## 👨‍💻 Author
 
 **Naveen K**
